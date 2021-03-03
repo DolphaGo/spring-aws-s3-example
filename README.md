@@ -12,4 +12,4 @@ AWS S3는 Storage 서비스로서 아래와 같은 특징들이 있습니다.
 - 안전하다
 
 
-출처 : https://victorydntmd.tistory.com/334
+참고 : https://victorydntmd.tistory.com/334
